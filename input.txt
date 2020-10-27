@@ -1,0 +1,4 @@
+ls -a -r -s
+sleep 1
+invalid name
+./longloop
